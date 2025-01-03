@@ -24,7 +24,7 @@ export default function Header() {
             Testimonials
           </a>
           <Button className="bg-purple-600 hover:bg-purple-700 text-white">
-            Sign Up
+            <a href="Register">Sign Up</a>
           </Button>
         </nav>
       </div>
